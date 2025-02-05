@@ -1,4 +1,11 @@
-# Silentgamer OpenCode / Hackintosh installation
+# My OpenCore installation
+
+## Hardware
+
+- AMD Ryzen 7 5800X3D
+- AMD Radeon RX 6800 XT
+- Asus Prime X570-P
+- Asus USB BT400 Bluetooth Dongle
 
 ## Links
 
