@@ -9,8 +9,8 @@
 
 ## Links
 
-OpenCore install guide: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
-OCAuxiliaryTools: https://github.com/ic005k/OCAuxiliaryTools
+- [OpenCore install guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
+- [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
 
 ## Changelog
 
