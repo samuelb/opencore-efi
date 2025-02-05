@@ -31,3 +31,11 @@ OCAuxiliaryTools: https://github.com/ic005k/OCAuxiliaryTools
 - Removed EFI/OC/Resources/...
 - Fix dates in Changelog
 - Remove .gitattributes again
+
+### 2025-02-05
+
+- OpenCore 1.0.3
+- Update Kexts
+  - Lilu 1.7.0
+  - NVMeFix 1.1.2
+  - WhateverGreen 1.6.9
